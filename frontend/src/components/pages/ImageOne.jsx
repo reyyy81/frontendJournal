@@ -1,4 +1,6 @@
 import { Parallax } from 'react-parallax';
+
+import React from 'react';
 import Nasa from '../img/ImageOne.jpeg'
 // import './images.css'
 

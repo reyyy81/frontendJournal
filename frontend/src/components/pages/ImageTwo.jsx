@@ -1,4 +1,5 @@
 import { Parallax } from 'react-parallax';
+import React from 'react'
 import Satellite from '../img/ImageTwo.jpeg'
 // import './images.css'
 

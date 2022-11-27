@@ -1,4 +1,5 @@
 import { Parallax } from 'react-parallax';
+import React from 'react';
 import spaceStation from '../img/ImageThree.jpeg'
 // import './images.css'
 
